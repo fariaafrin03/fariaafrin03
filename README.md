@@ -15,5 +15,3 @@ Skills: REACT / JS / HTML / CSS/BOOTSTRAP/TAILWIND/SCSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fariaafrin03)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fariaafrin03&show_icons=true&count_private=true)  
-
-
